@@ -423,7 +423,7 @@ Congratulations! We have successfully set up Windows 10, joined the PC to the do
 </p>
 
 
-[Next Lab 5 : Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports]
+[Next Lab 5 : Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports](https://github.com/Simokid/Join-Windows-10-to-Domain-Local-User-Group-Policy-RSOP-Reports/tree/main)
 
 
 
