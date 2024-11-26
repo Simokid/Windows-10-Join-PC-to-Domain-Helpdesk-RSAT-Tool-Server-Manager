@@ -56,7 +56,7 @@ Select Hardware, and by default, the base memory is set to 2048 MB. Increase it 
    <br />
 </p>
 
-s
+
 
 5. <p align="center">
    <img src="https://i.imgur.com/BYL5Rab.png" height="100%" width="100%" alt="Disk Sanitization Steps 5"/>
@@ -88,7 +88,7 @@ Select "Custom: Install Windows only," then click Next to begin the installation
    <br />
 </p>
 
-s
+
 
 9. <p align="center">
    <img src="https://i.imgur.com/L7oAGjD.png" height="100%" width="100%" alt="Disk Sanitization Steps 9"/>
@@ -137,7 +137,7 @@ Next, switch to the Windows Server 2022 virtual machine. Open the Control Panel 
    <br />
 </p>
 
-s
+
 
 15. <p align="center">
    <img src="https://i.imgur.com/9J5hKgd.png" height="100%" width="100%" alt="Disk Sanitization Steps 15"/>
@@ -145,7 +145,7 @@ s
    <br />
 </p>
 
-s
+
 
 16. <p align="center">
    <img src="https://i.imgur.com/KqPzSri.png" height="100%" width="100%" alt="Disk Sanitization Steps 16"/>
@@ -226,7 +226,7 @@ Next, click on Administrator again and select Set Password → Proceed. Create a
    <br />
 </p>
 
-s
+
 
 25. <p align="center">
    <img src="https://i.imgur.com/h0QLYEH.png" height="100%" width="100%" alt="Disk Sanitization Steps 25"/>
@@ -276,7 +276,7 @@ Next, we will download the RSAT tools to enable access to Active Directory on a 
    <br />
 </p>
 
-s
+
 
 31. <p align="center">
    <img src="https://i.imgur.com/BFNHx5S.png" height="100%" width="100%" alt="Disk Sanitization Steps 31"/>
@@ -302,7 +302,7 @@ Click **Install (7)**. Once the installation is complete, restart the virtual ma
    <br />
 </p>
 
-s
+
 
 33. <p align="center">
    <img src="https://i.imgur.com/YOuVhfx.png" height="100%" width="100%" alt="Disk Sanitization Steps 33"/>
@@ -334,7 +334,7 @@ After the restart, open Internet Explorer and download Google Chrome from the we
    <br />
 </p>
 
-s
+
 
 37. <p align="center">
    <img src="https://i.imgur.com/P5mqqXz.png" height="100%" width="100%" alt="Disk Sanitization Steps 37"/>
